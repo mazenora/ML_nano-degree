@@ -1,8 +1,8 @@
 ## To install the package:  
 ```
 cd 4a_binomial_package
-pip install
-```.  
+pip install .
+```  
 
 ## To Upgrade the package:  
 ```
